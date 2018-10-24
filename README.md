@@ -6,6 +6,7 @@
 Exercises based on all video lessons (01-68) on **Python 3 Basics Tutorial Series** of [Harrison Kinsley @sentdex](https://twitter.com/sentdex) at YouTube:
 
 https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=1
+[![sentdex](assets/sentdex.png)](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=1)
 
 ## Install / How to Use
 To use this files you need have [Python 3+](https://www.python.org/downloads/) in your machine. Open a **Terminal** and type:
